@@ -2,7 +2,10 @@
 
 Eda is good for data analysis, but PPR makes data analysis very easy. Graphics, visualizations etc. also with a single code
 
-Do you want to see what can do PPR click output.html
+Do you want to see what can do PPR : 
+
+![record_210428_162736](https://user-images.githubusercontent.com/73308365/116412584-80aa9100-a83f-11eb-8c57-ff8e476e4d37.gif)
+
 
 PPR --> Software tool to experiment with 2D motion planning problemsfor robot manipulators.
 
